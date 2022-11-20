@@ -5,9 +5,12 @@ A plugin for chat managing with a lot of great features!
 Version: 1.0
 Features: Chat lock, cooldown, bad words filter, /sudo and /sudoall commands, chat formatting (beta), antylink, mention (beta), Broadcast Command (customizable looks), Staff Chat Command (customizable looks)
 #
-Uploading to the server
-Download it here
-Put it in /plugins/ of your server
+Uploading to the server 
+
+Download it here 
+
+Put it in /plugins/ of your server 
+
 Restart your server
 #
 Commands and Permissions
