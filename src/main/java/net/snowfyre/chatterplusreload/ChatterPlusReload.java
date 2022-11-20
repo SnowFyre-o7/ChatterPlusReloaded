@@ -226,7 +226,7 @@ public final class ChatterPlusReload extends JavaPlugin implements CommandExecut
 
                 if (args.length == 0) {
 
-                    if (player.hasPermission("cplusreloaded.mention.command")) {
+                    if (player.hasPermission("cplusreloaded.mention")) {
 
                         togglePluginState(player);
 
@@ -397,6 +397,3 @@ public final class ChatterPlusReload extends JavaPlugin implements CommandExecut
     }
 
 }
-
-
-
