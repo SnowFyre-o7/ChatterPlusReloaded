@@ -7,7 +7,7 @@ Features: Chat lock, cooldown, bad words filter, /sudo and /sudoall commands, ch
 #
 Uploading to the server 
 
-Download it [here]([https://www.google.com](https://www.spigotmc.org/resources/chatterplusreloaded.106347/)) 
+Download it [here](https://www.spigotmc.org/resources/chatterplusreloaded.106347/)
 
 Put it in /plugins/ of your server 
 
