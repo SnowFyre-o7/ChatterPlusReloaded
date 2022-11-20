@@ -1,0 +1,36 @@
+name: ChatterPlusReload
+version: '${project.version}'
+main: net.snowfyre.chatterplusreload.ChatterPlusReload
+api-version: 1.19
+authors: [ SnowFyre, d1axowy ]
+description: reloaded version of the official plugin ChatterPlus
+softdepend:
+  - PlaceholderAPI
+loadbefore:
+  - Essentials
+  - EssentialsX
+  - LPC
+commands:
+  chatclear:
+    description: Clears the chat
+  cplus:
+    description: Reloads the config!
+  lockchat:
+    description: Lock the chat!
+  unlockchat:
+    description: Unlock the chat!
+  sudoall:
+    description: Make everyone say something!
+  sudo:
+    description: Make someone say something!
+  broadcast:
+    aliases: bc
+    description: Broadcast a message to the server!
+  staffchat:
+    aliases: sc
+    description: Message all the staff on the server (they must have the cplus.staffchat permission)
+  reloadbroadcasts:
+    aliases: rb
+    description: reloads the broadcast messages!
+  mention:
+    description: allows to toggle mentioning.
