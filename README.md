@@ -2,18 +2,18 @@
 Reloaded and continued version of the official plugin chatter plus.
 A plugin for chat managing with a lot of great features!
 
-Version: 1.0
+# Version: 1.0
 Features: Chat lock, cooldown, bad words filter, /sudo and /sudoall commands, chat formatting (beta), antylink, mention (beta), Broadcast Command (customizable looks), Staff Chat Command (customizable looks)
-#
-Uploading to the server 
+
+# Uploading to the server 
 
 Download it [here](https://www.spigotmc.org/resources/chatterplusreloaded.106347/)
 
 Put it in /plugins/ of your server 
 
 Restart your server
-#
-Commands and Permissions
+
+# Commands and Permissions
 
 /chatclear - Clears the chat - Permission: cplusreloaded.chatclear
 
