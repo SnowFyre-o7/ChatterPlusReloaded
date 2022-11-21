@@ -65,7 +65,7 @@ public final class ChatterPlusReload extends JavaPlugin implements CommandExecut
         Player p = e.getPlayer();
         try {
             if (p.hasPermission("cplusreloaded.check-updates{")) {
-                HttpURLConnection con = (HttpURLConnection) new URL("https://api.spigotmc.org/legacy/update.php?resource=103626").openConnection();
+                HttpURLConnection con = (HttpURLConnection) new URL("https://api.spigotmc.org/legacy/update.php?resource=106347").openConnection();
                 con.setRequestMethod("GET");
                 String onlineVersion = new BufferedReader(new InputStreamReader(con.getInputStream())).readLine();
                 boolean availableUpdate = !onlineVersion.equals(getDescription().getVersion());
@@ -235,12 +235,6 @@ public final class ChatterPlusReload extends JavaPlugin implements CommandExecut
                     }
 
                 }
-
-                    if (args[0].equalsIgnoreCase("help")) {
-
-                        player.sendMessage(prefix + ChatColor.GREEN + "Use the " + ChatColor.DARK_GREEN + "/mention " + ChatColor.GREEN + "command to toggle between the ability" + ChatColor.GREEN + " to ping (and be pinged)." + ChatColor.GREEN + ".");
-
-                    }
                 }
             }
 
