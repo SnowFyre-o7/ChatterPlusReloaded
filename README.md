@@ -4,6 +4,7 @@ A plugin for chat managing with a lot of great features!
 
 # Version: 1.2
 Check out spigot page for full update information
+
 Features: Chat lock, cooldown, bad words filter, /sudo and /sudoall commands, chat formatting, antylink, mention, Broadcast Command (customizable looks), Staff Chat Command (customizable looks)
 
 # Uploading to the server 
