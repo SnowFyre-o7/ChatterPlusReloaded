@@ -2,7 +2,7 @@
 Reloaded and continued version of the official plugin chatter plus.
 A plugin for chat managing with a lot of great features!
 
-# Version: 1.2
+# Version: 1.2.1
 Check out spigot page for full update information
 
 Features: Chat lock, cooldown, bad words filter, /sudo and /sudoall commands, chat formatting, antylink, mention, Broadcast Command (customizable looks), Staff Chat Command (customizable looks)
